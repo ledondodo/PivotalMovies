@@ -6,8 +6,7 @@ Pivotal movie can be characterized as a film that has significantly influenced t
 
 # Datastory
 
-[The West Bobers Website](https://davidlacour.github.io/TheWestBobersWebsite/)
-https://davidlacour.github.io/TheWestBobersWebsite/
+[The West Bobers Website](https://ledondodo.github.io/TheWestBobersWebsite/)
 
 
 # The Data
